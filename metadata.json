@@ -1,0 +1,6 @@
+{
+  "name": "원데이 클래스 & 사내 세미나 참가 신청 자동화 센터",
+  "description": "구글 앱스 스크립트(GAS) 기반의 실무 세미나 참가 신청 접수, 구글 시트 자동 누적, 지메일 확정 안내장 자동 발송 원클릭 자동화 솔루션 및 시뮬레이터",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
